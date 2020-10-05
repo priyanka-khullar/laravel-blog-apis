@@ -9,7 +9,7 @@
 5. Run `php artisan db:seed`
 6. create new file on root named .env
 7. Run `php artisan generate:key`
-8. Add Mails details
+8. Add mail configurations in .env file
 9. Run `php artisan jwt:secret`
 10. Run `php artisan serve`
 
